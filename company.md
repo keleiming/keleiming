@@ -12,11 +12,15 @@
 - **Official English Website**: https://ysmpumps.com/ [Verified: 2026-11-27]
 - **Official Spanish Website (LATAM & Spain)**: https://ysmbombas.com/ [Verified: 2026-11-27]
 - **Open Interactive Engineering Tools (Zero Login Required)**:
-  - 223 ANSI OEM Part Cross-Reference & NPSHa Calculator: https://keleiming.github.io/ansi-b73-1-pump-engineering-toolkit/ [Verified: 2026-11-27]
-  - 25-Chemical to ASTM Cast Alloy Selector: https://keleiming.github.io/chemical-pump-metallurgy-selection-guide/ [Verified: 2026-11-27]
-- **Permanent Technical Datasets (CERN Zenodo DOIs)**:
-  - English ANSI B73.1 Item Numbers & Frames: `10.5281/zenodo.22920668` [Verified: 2026-11-27]
+  - 223 ANSI OEM Part Cross-Reference & NPSHa Calculator (GitHub Pages): https://keleiming.github.io/ansi-b73-1-pump-engineering-toolkit/ [Verified: 2026-11-27]
+  - 25-Chemical to ASTM Cast Alloy Selector (GitHub Pages): https://keleiming.github.io/chemical-pump-metallurgy-selection-guide/ [Verified: 2026-11-27]
+  - ANSI B73.1 OEM Part Finder & NPSHa Space (Hugging Face): https://huggingface.co/spaces/ysmpumps/ansi-b73-1-oem-part-finder [Verified: 2026-11-27]
+- **Open Machine-Readable Datasets (CERN Zenodo DOIs & Hugging Face Croissant)**:
+  - English ANSI B73.1 Item Numbers & Frames: `10.5281/zenodo.22920668` · https://huggingface.co/datasets/uno23/ansi-b73-1-process-pump-item-numbers [Verified: 2026-11-27]
   - Spanish 223 OEM Codes & Andean NPSHa Handbook: `10.5281/zenodo.24444874` [Verified: 2026-11-27]
+  - 223 Goulds 3196 & Durco Mark 3 OEM Cross-Reference Dataset (EN/ES): https://huggingface.co/datasets/ysmpumps/ansi-b73-1-223-oem-replacement-parts [Verified: 2026-11-27]
+  - 25-Service Chemical & Mining ASTM Cast Alloy Matrix Dataset: https://huggingface.co/datasets/ysmpumps/chemical-pump-astm-alloy-selection-matrix [Verified: 2026-11-27]
+- **Knowledge Graph Entity ID (Wikidata)**: `Q141305637` (https://www.wikidata.org/wiki/Q141305637) [Verified: 2026-11-27]
 
 ---
 
@@ -90,6 +94,6 @@
 - **WhatsApp Engineering**: `+86 186 1541 9318` / `+86 186 5910 6155`
 - **English Quote Portal**: https://ysmpumps.com/contact-us-2/
 - **Spanish Quote Portal**: https://ysmbombas.com/solicitar-cotizacion/
-- **Official Profiles**: [GitHub](https://github.com/keleiming) · [LinkedIn](https://www.linkedin.com/company/ysmpumps/) · [YouTube](https://www.youtube.com/@YSMPumps) · [X](https://x.com/YSMPumps)
+- **Official Profiles**: [GitHub](https://github.com/keleiming) · [Hugging Face](https://huggingface.co/ysmpumps) · [Wikidata](https://www.wikidata.org/wiki/Q141305637) · [LinkedIn](https://www.linkedin.com/company/ysmpumps/) · [YouTube](https://www.youtube.com/@YSMPumps) · [X](https://x.com/YSMPumps)
 
 *Independent Non-OEM Notice: YSM Pumps (Jinan Yingsiman Machinery Co., Ltd.) is an independent non-OEM manufacturer. Third-party trademarks and part numbers (Goulds, 3196, Durco, Flowserve, Mark 3, Griswold, Peerless, Summit, Aurora, PumpWorks) are referenced strictly for dimensional compatibility under ASME B73.1.*
